@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>TV Show Tracker</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="js/app.js" defer></script>
+</head>
+
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark px-3">
+  <a class="navbar-brand" href="index.html">TV Tracker</a>
+
+  <div class="navbar-nav">
+    <a class="nav-link" href="index.html">Home</a>
+    <a class="nav-link" href="signin.html">Sign In</a>
+    <a class="nav-link" href="admin.html">Admin</a>
+  </div>
+</nav>
+
+<div class="container mt-4">
+
+  <h1>Welcome to TV Show Tracker</h1>
+  <p>Track what you're watching and stay organized.</p>
+
+  <div class="card p-3 mt-4">
+    <h3>Add a Show</h3>
+
+    <form id="showForm">
+      <input class="form-control mb-2" id="showName" placeholder="Show Name">
+      <input class="form-control mb-2" id="genre" placeholder="Genre">
+      <input class="form-control mb-2" id="episodes" placeholder="Episodes Watched">
+
+      <button class="btn btn-primary" type="submit">Add Show</button>
+    </form>
+  </div>
+
+</div>
+
+<footer class="text-center mt-5 p-3">
+  <a href="https://github.com/wesleycurtis" target="_blank">GitHub Profile</a> |
+  <a href="https://github.com/wesleycurtis/alfa-project" target="_blank">Source Code</a>
+</footer>
+
+</body>
+</html>
