@@ -3,8 +3,9 @@
 
 A simple front-end web app for tracking TV shows.
 
-## Author
-Wesley Curtis
+## Authorship & Attribution
+- Wesley Curtis
+- ChatGPT for error solutions
 
 ## User Story
 As a user, I want to track TV shows I'm watching so I can stay organized.
