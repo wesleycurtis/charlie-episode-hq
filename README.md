@@ -15,14 +15,13 @@ As a user, I want to track TV shows I'm watching so I can stay organized.
 - JavaScript
 - Bootstrap
 - jQuery
-- Normalize.css
 
 ## Features
 - Add TV shows via form
 - Store data in localStorage
 - Admin dashboard view
 - Multi-page navigation
-- Console logging for debugging
+- Console logging
 
 ## Directory Structure
 /css - styling
