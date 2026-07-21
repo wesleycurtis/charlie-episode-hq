@@ -1,7 +1,10 @@
-# alfa
+# charlie-episode-hq
 # TV Show Tracker
 
 A simple front-end web app for tracking TV shows.
+
+## Spring 99 / Future Dev Ideas
+- Check out this [milestone] for future dev ideas!
 
 ## Authorship & Attribution
 - Wesley Curtis
