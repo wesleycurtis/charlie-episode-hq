@@ -4,7 +4,7 @@
 A simple front-end web app for tracking TV shows.
 
 ## Spring 99 / Future Dev Ideas
-- Check out this [milestone] for future dev ideas!
+- Check out this [milestone](https://github.com/wesleycurtis/charlie-episode-hq/milestone/1) for future dev ideas!
 
 ## Authorship & Attribution
 - Wesley Curtis
