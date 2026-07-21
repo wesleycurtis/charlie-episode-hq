@@ -7,6 +7,7 @@
 - Name: Wesley Curtis
 - GitHub: [wesleycurtis](https://github.com/wesleycurtis)
 - Alfa version link: [Alfa branch](https://github.com/wesleycurtis/charlie-episode-hq/tree/alfa)
+- Early App Concept: [Wireframe](https://github.com/wesleycurtis/charlie-episode-hq/wiki/charlie-wireframe)
 
 ## Spring 99 / Future Dev Ideas
 
