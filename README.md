@@ -6,7 +6,7 @@
 
 - Name: Wesley Curtis
 - GitHub: [wesleycurtis](https://github.com/wesleycurtis)
-- Alfa version link: [Alfa branch / repo](https://github.com/wesleycurtis/charlie-episode-hq)
+- Alfa version link: [Alfa branch](https://github.com/wesleycurtis/charlie-episode-hq/tree/alfa)
 
 ## Spring 99 / Future Dev Ideas
 
