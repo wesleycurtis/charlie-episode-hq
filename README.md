@@ -9,6 +9,10 @@
 - Alfa version link: [Alfa branch](https://github.com/wesleycurtis/charlie-episode-hq/tree/alfa)
 - Early App Concept: [Wireframe](https://github.com/wesleycurtis/charlie-episode-hq/wiki/charlie-wireframe)
 
+## Deployments
+Dev Server: https://wesleycurtis.github.io/charlie-episode-hq/
+Video Production Server: hhtp://34.67.214.35
+
 ## Spring 99 / Future Dev Ideas
 
 - Check out this [milestone](https://github.com/wesleycurtis/charlie-episode-hq/milestone/1) for future dev ideas!
